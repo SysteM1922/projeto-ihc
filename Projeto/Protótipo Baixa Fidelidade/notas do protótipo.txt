@@ -1,0 +1,9 @@
+Cartões -> Cartões de Viagem
+Tecla para cancelar
+add Métodos de Pagamento
+Mudar ícon "detalhes"
+Origem e Destino negrito caps lock
+Add setas voltar atrás
+Menu de escolher linhas é pouco intuitivo
+Conciliar menu de horários com menu de pagamentos
+Separar "+" em dois botões
