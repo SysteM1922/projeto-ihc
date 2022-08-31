@@ -1,4 +1,4 @@
-# paper-ihc
+# trabalho-ihc
 <h1>1º Trabalho da Unidade Curricular de Interação Humano-Computador 2021/2022</h1>
 
 <h2>104152 Gonçalo Duarte Gil Abrantes</h2>
