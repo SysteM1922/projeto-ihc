@@ -1,0 +1,13 @@
+!!!!!!!!!! Preparar a apresentação, tema e apresentação muito bons, falta de preparação estragou
+Adicionar imagens enquanto falamos sobre o que mudámos de um protótipo para o outro e enquanto falamos de problemas de usabilidade reportados pelos utilizadores
+Vídeo de DEMO deve ter sempre o mesmo ritmo de ações e não deve haver momentos de silêncio a vê-lo
+Melhorar a introdução, contextualização pobre para o leque de possibilidades que existia relativo a este problema
+Gráfico não foi o mais indicado, usar os que demos nas aulas
+Ponto forte, guardar comentários dos utilizadores e apresentar o que foi feito relativamente a isso
+Slides com muito texto deviam ter imagens a contextualizar, preferível não ter tanto texto e aprofundar mais certos pontos
+Persona adequada
+Deviamos ter feito o user test durante o LFP para comparar depois com os do HFP
+Trabalho futuro bom, altas expectativas para uma app simples de forma a torná-la perfeita
+Devia estar já implementada a funcionalidade dos PDFs
+Devia ter sido esclarecida durante a apresentação onde as compras vão parar já que não está implementada
+Escolher um nome mais apelativo, mas nada de especial
